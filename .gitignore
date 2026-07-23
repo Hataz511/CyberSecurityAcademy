@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store

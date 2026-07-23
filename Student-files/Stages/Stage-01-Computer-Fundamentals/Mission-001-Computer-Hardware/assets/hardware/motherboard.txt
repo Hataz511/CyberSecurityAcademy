@@ -1,0 +1,12 @@
+Motherboard
+=======================
+
+The motherboard connects every hardware component.
+
+It contains:
+
+- CPU Socket
+- RAM Slots
+- PCIe Slots
+- SATA Connectors
+- Power Connectors

@@ -1,0 +1,14 @@
+GPU
+=======================
+
+Graphics Processing Unit
+
+Responsibilities
+
+- Graphics rendering
+
+- Video processing
+
+- AI acceleration
+
+- Parallel computation

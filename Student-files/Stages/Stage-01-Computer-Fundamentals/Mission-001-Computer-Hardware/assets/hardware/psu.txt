@@ -1,0 +1,5 @@
+Power Supply Unit
+
+Converts AC electricity into DC electricity.
+
+Supplies power to every hardware component.

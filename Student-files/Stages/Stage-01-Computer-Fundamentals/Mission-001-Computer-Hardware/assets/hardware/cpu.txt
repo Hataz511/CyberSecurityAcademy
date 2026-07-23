@@ -1,0 +1,12 @@
+CPU
+=======================
+
+CPU (Central Processing Unit) is the brain of the computer.
+
+Responsibilities:
+- Executes instructions
+- Performs calculations
+- Controls system operations
+
+Interesting Fact:
+Modern CPUs contain billions of transistors.

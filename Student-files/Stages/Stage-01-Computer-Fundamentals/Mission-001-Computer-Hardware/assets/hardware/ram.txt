@@ -1,0 +1,9 @@
+RAM
+=======================
+
+RAM (Random Access Memory) temporarily stores data that is actively used.
+
+Characteristics:
+- Very fast
+- Volatile memory
+- Cleared after shutdown

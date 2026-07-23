@@ -1,0 +1,13 @@
+Welcome Junior Technician!
+
+Today is your first day.
+
+Your mission is simple.
+
+Read the documentation.
+
+Inspect the workstation.
+
+Locate the hidden verification code.
+
+Good luck!

@@ -1,0 +1,21 @@
+﻿Computer Inventory
+
+=======================
+
+✔ CPU Installed
+
+✔ RAM Installed
+
+✔ GPU Installed
+
+✔ SSD Installed
+
+✔ Motherboard Installed
+
+✔ PSU Installed
+
+------------------------
+
+The verification code has been hidden somewhere inside the workstation.
+
+Only technicians who know Linux can find it.
